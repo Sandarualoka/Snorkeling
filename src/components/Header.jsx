@@ -7,6 +7,7 @@ const sections = [
   ['Services', 'services'],
   ['Our Journey', 'journey'],
   ['Gallery', 'gallery'],
+  ['Guest Reviews', 'testimonials'],
   ['Contact Us', 'contact'],
 ];
 

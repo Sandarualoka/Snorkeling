@@ -6,7 +6,7 @@ import OurJourney from './components/OurJourney';
 import Gallery from './components/Gallery';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-
+import Testimonials from './components/Testimonials';
 export default function App() {
   return (
     <>
@@ -16,6 +16,7 @@ export default function App() {
         <Services />
         <OurJourney />
         <Gallery />
+        <Testimonials />
         <Contact />
       </main>
       <Footer />
